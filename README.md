@@ -38,6 +38,3 @@ Para instalar o flask basta executar o comando a seguir. OBS.: Lembre de verific
 ```
     > pip install Flask
 ```
-
-
-Testando alteração de conta.
